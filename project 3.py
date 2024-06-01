@@ -1,4 +1,4 @@
-# Graphical BMI Calculator using Tkinter
+ //BMI Calculator 
 
 import tkinter as tk
 from tkinter import messagebox
